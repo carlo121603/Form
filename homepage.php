@@ -16,7 +16,7 @@
 
     <!-- Empty Content -->
     <div class="d-flex vh-100 justify-content-center align-items-center">
-        <h5 class="text-muted">Welcome to the Minimal Home Page</h5>
+        <h5 class="text-muted">Welcome to the Dashboard</h5>
     </div>
 
     <script>
